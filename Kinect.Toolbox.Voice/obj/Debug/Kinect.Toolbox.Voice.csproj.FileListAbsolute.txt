@@ -1,0 +1,10 @@
+D:\kinect\KinectToolbox\KinectToolbox\Kinect.Toolbox.Voice\bin\Debug\Kinect.Toolbox.Voice.dll
+D:\kinect\KinectToolbox\KinectToolbox\Kinect.Toolbox.Voice\bin\Debug\Kinect.Toolbox.Voice.pdb
+D:\kinect\KinectToolbox\KinectToolbox\Kinect.Toolbox.Voice\obj\Debug\Kinect.Toolbox.Voice.csprojResolveAssemblyReference.cache
+D:\kinect\KinectToolbox\KinectToolbox\Kinect.Toolbox.Voice\obj\Debug\Kinect.Toolbox.Voice.dll
+D:\kinect\KinectToolbox\KinectToolbox\Kinect.Toolbox.Voice\obj\Debug\Kinect.Toolbox.Voice.pdb
+D:\kinect\창설\KinectToolbox\Kinect.Toolbox.Voice\bin\Debug\Kinect.Toolbox.Voice.dll
+D:\kinect\창설\KinectToolbox\Kinect.Toolbox.Voice\bin\Debug\Kinect.Toolbox.Voice.pdb
+D:\kinect\창설\KinectToolbox\Kinect.Toolbox.Voice\obj\Debug\Kinect.Toolbox.Voice.csprojResolveAssemblyReference.cache
+D:\kinect\창설\KinectToolbox\Kinect.Toolbox.Voice\obj\Debug\Kinect.Toolbox.Voice.dll
+D:\kinect\창설\KinectToolbox\Kinect.Toolbox.Voice\obj\Debug\Kinect.Toolbox.Voice.pdb

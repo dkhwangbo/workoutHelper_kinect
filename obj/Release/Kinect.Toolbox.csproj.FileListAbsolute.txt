@@ -1,0 +1,11 @@
+D:\kinect\KinectToolbox\KinectToolbox\bin\Release\Kinect.Toolbox.dll
+D:\kinect\KinectToolbox\KinectToolbox\bin\Release\Kinect.Toolbox.pdb
+D:\kinect\KinectToolbox\KinectToolbox\bin\Release\Microsoft.Kinect.Toolkit.FaceTracking.dll
+D:\kinect\KinectToolbox\KinectToolbox\obj\Release\Controls\PresenceControl.baml
+D:\kinect\KinectToolbox\KinectToolbox\obj\Release\Controls\MouseImpostor.baml
+D:\kinect\KinectToolbox\KinectToolbox\obj\Release\Controls\PresenceControl.g.cs
+D:\kinect\KinectToolbox\KinectToolbox\obj\Release\Controls\MouseImpostor.g.cs
+D:\kinect\KinectToolbox\KinectToolbox\obj\Release\Kinect.Toolbox_MarkupCompile.cache
+D:\kinect\KinectToolbox\KinectToolbox\obj\Release\Kinect.Toolbox.g.resources
+D:\kinect\KinectToolbox\KinectToolbox\obj\Release\Kinect.Toolbox.dll
+D:\kinect\KinectToolbox\KinectToolbox\obj\Release\Kinect.Toolbox.pdb
